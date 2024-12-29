@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home"
+        android:iconTint="@color/black"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/search"
+        android:title="Search"
+        android:icon="@drawable/search"
+        android:iconTint="@color/black"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/explore"
+        android:title="Explore"
+        android:icon="@drawable/explore"
+        android:iconTint="@color/black"
+        android:checkable="true"
+        />
+
+
+    <item
+        android:id="@+id/reels"
+        android:title="Reels"
+        android:icon="@drawable/reels"
+        android:iconTint="@color/black"
+        android:checkable="true"
+        />
+
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/profile"
+        android:iconTint="@color/black"
+        android:checkable="true"
+        />
+
+
+</menu>
